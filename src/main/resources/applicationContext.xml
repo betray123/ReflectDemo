@@ -1,0 +1,5 @@
+<beans>
+    <bean id="foo" class="com.zk.demo.Foo"></bean>
+    <bean id="date" class="java.util.Date"></bean>
+    <bean id="testCase" class="com.zk.demo.Testcase"></bean>
+</beans>
